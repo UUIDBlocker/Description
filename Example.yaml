@@ -7,4 +7,4 @@ external-controller: :9090
 proxies:
   - {name: 🇭🇰 HK/SG IEPL, server: ee.ednovas.cloud, port: 19916, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
   - {name: 🇺🇸 US JSCM, server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
-  - {name: 🇭🇰 HK/SG IEPL, server: ee.ednovas.cloud, port: 19916, type: ss, cipher: aes-128-gcm, password: Institudodematematicas, udp: true}
+  - {name: 🇭🇰 HK/SG IEPL, server: ee.ednovas.cloud, port: 19916, type: ss, cipher: aes-128-gcm, password: InstitudodeMatematicas, udp: true}
